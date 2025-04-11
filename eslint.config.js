@@ -41,6 +41,7 @@ export default defineConfig([
       // Override aqui, por último
       'react/react-in-jsx-scope': 'off',
       'prettier/prettier': 'warn',
+
     },
   },
 ]);
